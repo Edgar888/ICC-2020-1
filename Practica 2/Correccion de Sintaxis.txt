@@ -1,9 +1,0 @@
-Correccion de Sintaxis 
-
-
-
-en la linea 5 se cambia Sintaxis 
-en la linea 9 se cambia Int y en la 10 y 11 se hace lo mismo 
-en la inea 14 se se pone double y se pone discriminante con minuscula 	
-en la linea 17 se pone Int 
-en la linea 18 se la agrega el 1 a ch y  se quitan las dobles comillas a la w 
