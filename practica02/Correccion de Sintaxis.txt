@@ -1,0 +1,15 @@
+Correccion de Sintaxis 
+
+en la linea 9 booleaN se queda la N mayuscula, pero se debe de cambiar la palabra completa por un "int"
+ 
+en la inea 10 el caracter establecido es muy grande asi que se modifica la cantidad de 128 por 127 
+ 	
+en la linea 11 se cambia "short" por "long" y al final del numero se le agrega una "L" para que jAVA lo puede interpretar como una variable del long  
+
+en la linea 14 la parabra Discriminante desde un principio se establecio con minuculas no mayusculas solo se cambia la "D" por "d" 
+
+en la linea 14 se cambia "long" por "double"  
+
+en la linea 17 se cabia la "C" mayuscula de char por una "c" minuscula 
+
+en la linea 18 se espesifica bien la variable "ch" como "ch1" y se le quetan las dobles comillas a "w"
