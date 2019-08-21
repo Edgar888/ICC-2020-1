@@ -1,0 +1,7 @@
+Explicacion
+
+	En el programa de Ecuacion solo se agrega la operacion de froma que JAVA sepa en que orden se van a realizar las operaciones agregar parentesis y signos de nultiplicacion donde sean mas obios, para que JAVA pueda ingterpretar bien el programa y aumentano n el numero sera mayor 
+
+	En el programa de PrePost imprime el 17 dos veces por que lo especificado en el programa "x-- significa que ira en cuente desendente antes del 20 pero si se pone "--x" esto JAVA lo interpretara como un numero antes o acendente por lo tanto se queremos uno cuenta desendente pondremos " System.out.println (--x); y las siguuentes de igual froma si es acendente rean con los guiones del lado contrario y en el punto en donde queden como en el programa ese numero lo imprimira dos veces 
+
+	En el programa de Operadores se especifica que se realice una division de 39 entre 5 el resultado en con numeros Reales seria 7.8 para que JAVA interprete esto especificamos que lo queremos con " double", si lo queremos redondeado sera con "Int" esto especifica que noquiero el punto  
